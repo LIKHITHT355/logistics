@@ -7,7 +7,7 @@ export function Hero() {
     <section id="home" className="hero">
       <div className="container hero-grid">
         <div className="fade-in">
-          <span className="hero-badge"><span className="dot" /> Now serving in Bomasandra Industrial <Area:d></Area:d></span>
+          <span className="hero-badge"><span className="dot" /> Now serving in Bommasandra Industrial Area</span>
           <h1 style={{ marginTop: 16 }}>
             Reliable goods transport across <span>Industrial Area Bommasandra</span>
           </h1>
